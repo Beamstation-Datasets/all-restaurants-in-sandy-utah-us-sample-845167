@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d6d49432-c447-42d4-a307-0e9be8e7dbd5",
+  "id_short": 845167,
+  "published_at": "2026-04-15T07:31:20Z",
+  "repo_name": "all-restaurants-in-sandy-utah-us-sample-845167",
+  "sample_asset_name": "beamstation_845167_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/845167/beamstation_845167_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "96a8b3c629392eccf7647ae535a4cc2c872e49497c4a17dc6d0a03d8e3067277",
+  "sample_size_bytes": 87236,
+  "total_records": 180
+}
