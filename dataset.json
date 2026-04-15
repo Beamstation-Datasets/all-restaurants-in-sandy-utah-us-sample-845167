@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Sandy, Utah. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Sandy, Utah, US",
+  "export_job_id": "d6d49432-c447-42d4-a307-0e9be8e7dbd5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 845167,
+  "location_name": "Sandy",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-sandy-utah-us-sample-845167",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/845167/beamstation_845167_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 11.11,
+  "sample_records": 20,
+  "sample_sha256": "96a8b3c629392eccf7647ae535a4cc2c872e49497c4a17dc6d0a03d8e3067277",
+  "sample_size_bytes": 87236,
+  "total_records": 180,
+  "updated_at": "2026-03-31T16:45:17.809963+00:00"
+}
