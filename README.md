@@ -9,9 +9,9 @@
 | Dataset ID | `845167` |
 | Location | Sandy |
 | Category | Restaurants |
-| Full dataset size | 180 records |
-| Free sample size | 20 records (11.11%) |
-| Last export | 2026-03-31T16:45:17.809963+00:00 |
+| Full dataset size | 209 records |
+| Free sample size | 20 records (9.57%) |
+| Last export | 2026-04-14T17:41:22.347950+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sandy-utah-us-sample-845167/releases/download/sample-latest/beamstation_845167_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
