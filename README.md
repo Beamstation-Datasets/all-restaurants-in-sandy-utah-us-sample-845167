@@ -1,6 +1,6 @@
 # All Restaurants in Sandy, Utah, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `845167` |
 | Location | Sandy |
 | Category | Restaurants |
-| Full dataset size | 209 records |
-| Free sample size | 20 records (9.57%) |
-| Last export | 2026-04-14T17:41:22.347950+00:00 |
+| Full dataset size | 163 records |
+| Free sample size | 16 records (9.82%) |
+| Last export | 2026-04-21T19:26:29.456688+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sandy-utah-us-sample-845167/releases/download/sample-latest/beamstation_845167_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
